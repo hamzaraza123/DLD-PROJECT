@@ -1,3 +1,5 @@
+**CAR SMASH
+**
 The goal of this project is to use an FPGA to create an exciting and dynamic racing game for
 cars. The game will be fast-paced and real-time, requiring the user to make quick decisions and
 react visually.
